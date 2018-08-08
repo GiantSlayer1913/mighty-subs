@@ -31,3 +31,7 @@ body {
 .center-text {
   text-align: center;
 }
+
+.red-text {
+  color: #f00;
+}
