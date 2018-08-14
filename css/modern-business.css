@@ -35,3 +35,11 @@ body {
 .red-text {
   color: #f00;
 }
+
+.italicized {
+  font-style: italic;
+}
+
+.text-black {
+  color: solid black;
+}
